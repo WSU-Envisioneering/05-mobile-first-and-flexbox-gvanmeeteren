@@ -1,1 +1,27 @@
-/* Your styles go here */
+header,footer{
+    background-color: #BCE784 ;
+    padding: 2em;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    border-radius: 1em;
+}   
+
+section{
+    background-color: #BCE784;
+    padding: 1em;
+    border-radius: 4em;
+    color: white;
+    font-size: large;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 5em;
+    font-size: larger;
+}
+
+body{
+    background-color:#e0f3aba1
+}
